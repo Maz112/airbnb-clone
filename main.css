@@ -1,0 +1,106 @@
+    body {
+        margin: 0;
+        background-color: #EDEFED;
+        color: white;
+        font-family: Helvetica;
+    }
+header {
+background image:
+url("https://dl.dropboxusercontent.com/u/297682547/Hairbnb/header/nyc.jpg");
+text-align" center;
+height: 900px;
+background-size: cover
+color: white
+}
+
+#logo {
+  float: left;
+  height: 40px;
+  padding: 10px;
+}
+
+header ul {
+  float: right;
+  margin-top: 10px;
+  margin-right 20px;
+}
+
+header ul li {
+  display: inline-block;
+  font-size: 14px;
+  padding: 10px 20px;
+
+}
+
+#host {
+  border: 2px solid white;
+  border-radius: 3px;
+}
+
+header h1 {
+font-size: 60px;
+margin: 0;
+padding-top: 200px
+}
+
+header h4 {
+  font size: 14px;
+  font weight: 400;
+  margin top: 10px;
+  text-align:center;
+}
+
+p {
+  color: grey;
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  text-align:center;
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+h2 {
+    color: white
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 25px;
+    color: grey
+}
+header {       background: url("https://dl.dropboxusercontent.com/u/297682547/Hairbnb/header/nyc.jpg");
+
+}
+
+.inspiration {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.inspiration {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.locations {
+  margin-top: 20px;
+}
+
+.locations {
+  padding: 20px 10px;
+}
+
+.button {
+background-color: white;
+border: 1 px solid #565A5C
+width: 150px;
+padding:10 px 60px;
+margin:40px auto;
+}
